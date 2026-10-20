@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LIFE UNDER SOCIALISM"
-date:   2026-10-20 1:00:00 +1000
+date:   2026-10-20 9:00:00 +1000
 categories: Analysis
 tags: the_greens
 ---
