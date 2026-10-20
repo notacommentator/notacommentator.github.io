@@ -13,7 +13,7 @@ This idea is obviously appealing when one believes that supermarket giants are p
 
 Now, this idea is perhaps too socialistic for Australia, at least for now, but it's not the stupidest idea. It also has some limitations which need to be considered.
 
-###The Colesworth Duopoly
+## The Colesworth Duopoly
 
 Australia has one of the most concentrated grocery markets in the world. Coles and Woolworths together account for about 64% of the market share of grocery sales. While foreign groups have tried to break into the Australian market, and we have independent grocers and markets, none of these have the reach and power that the big two have. The biggest issue for a newcomer is that Coles and Woolworths are already entrenched: they have their supply chains, their home brand products, their customer loyalty and their physical real estate. All of these things take considerable time and expenses to build up from scratch. Presumably, no overseas company thinks it is worth trying, especially because the big two can undercut them until they give up (whereupon they can increase their prices again).
 
@@ -25,7 +25,7 @@ Additionally, being so large, Coles/Woolies have a very unfair advantage, allowi
 
 So might it not be a great idea for the government to get involved?
 
-###Issues
+## Issues
 
 It is oft-noted that the profit margins in the supermarket business are very narrow, only about 2%. If this is indeed the case, it would suggest supermakret prices cannot be reduced by more than 2% before they start making a loss. It also means that, even if there were government stores selling for less, the effect it would have on the prices at other supermarkets is limited.
 
@@ -35,7 +35,7 @@ Which brings me to the last of the big issues: increased government debt. I tend
 
 It must be said, thiugh, thaat ensuring children from low-income families can be fed is a really good thing for society. More generally, if people can save money on essentials, it gives them more economic freedom (such as more money to buy a house or invest), which should improve their socio-economic mobility. The cost of essential purchases, being unavoidable, have the biggest impact on those with low incomes, similar to my discussion of the GST in my post about Howard's tax policies. It is, in a way, a fixed cost that must be subtracted from a person's income and which cannot be lowered below a certain point by the individual's actions lest they starve. The only way for it to actually decrease is by lowering costs or by government assistance (e.g. via programmes like 'food stamps' or free school breakfasts).
 
-###The Deadening Hand of Socialism
+## The Deadening Hand of Socialism
 
 Personally, I have often believed that, for the most part, essential services are best provided by the government at low costs (or free). The free market, on the other hand is better suited to handle goods and services which people do not depend on, that is 'wants' rather than 'needs', because those tend to involve innovations or trends to achieve competitiveness. In some cases, government-run services make clear sense, like healthcare or education, where the products or services are more or less the same wherever you get it from (the curriculum is fairly consistent across the state, for example). Unlike, say, fashion or technology, where every company has a unique niche. But food and housing, despite being essentials, are different in that people do have preferences. A house's value is location dependent, and (generally) each house is unique: if the government built and sold all homes at the same price, it would be difficult to manage the demand for preferred locations, or it would lead to a lack of diversity in home designs. Similarly, with food, people have preferences on brands, have different quality limits they'll accept, or just like less popular/common goods. This tends to be served well by the free market and if the government simply sold all goods it could lead to more of an 'averaging' of products. There is also seasonality and capacity at play: if the government made a certain crop really cheap and people started buying it in larger amounts, it would distort the farming/production side of things. Then there could be a situation where a poor yield leads to rationing as demand would still be high even as supply is low.
 
