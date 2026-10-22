@@ -23,7 +23,7 @@ I note that this is all theory and the practice of what actually occurs with pri
 
 Additionally, being so large, Coles/Woolies have a very unfair advantage, allowing them to engage in all sorts of [underhand tactics](https://www.abc.net.au/news/2024-02-20/woolworths-coles-supermarket-tactics-grocery-four-corners/103405054) that have increased prices for consumers and made it difficult for competititors to get a foothold. A government-owned supermarket, however, would have much more power. It could buy land fairly easily, negotiate fair prices to farmers, have instant name recognition, sell at a loss and accrue debt without significant concern.
 
-So might it not be a great idea for the government to get involved?
+So why might it not be a great idea for the government to get involved?
 
 ## Issues
 
